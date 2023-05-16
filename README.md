@@ -1,0 +1,2 @@
+# docs
+QR Spot documentation
