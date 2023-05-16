@@ -1,2 +1,2 @@
 # docs
-QR Spot documentation
+QR Spot documentation such as manuals, brochures...
